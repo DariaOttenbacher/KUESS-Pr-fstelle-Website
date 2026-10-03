@@ -17,11 +17,11 @@ Außerdem möchte ich eine Online-Terminreservierung umsetzen, bei der Kunden ve
 
 Im weiteren Verlauf des Projekts könnte die Website um zusätzliche Funktionen erweitert werden, zum Beispiel:
 
-Kundenregistrierung
-HU/AU-Erinnerung per Email oder Post
-Verwaltung von Terminen
-Online-Bewerbungen
-Upload von Lebensläufen und Bewerbungsunterlagen für Bewerber
+- Kundenregistrierung
+- HU/AU-Erinnerung per Email oder Post
+- Verwaltung von Terminen
+- Online-Bewerbungen
+- Upload von Lebensläufen und Bewerbungsunterlagen für Bewerber
 
 ## Team
 
