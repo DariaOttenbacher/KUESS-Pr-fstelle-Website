@@ -2,7 +2,7 @@
 
 ## Projektidee
 
-Im August 2026 hat mein Mann im Rahmen einer Franchise der Firma KÜSS eine KFP-Ingenieur-Prüfstelle eröffnet.
+Im August 2026 hat mein Mann im Rahmen einer Prüforganisation der KÜSS eine KFZ-Prüfstelle eröffnet.
 
 Da bisher noch keine eigene Website vorhanden ist, möchte ich im Rahmen des Moduls Web Engineering an der DHBW eine Website für die Prüfstelle erstellen. So kann ich das im Studium Gelernte direkt an einem echten Projekt anwenden und gleichzeitig etwas Nützliches für das Unternehmen entwickeln.
 
@@ -17,6 +17,7 @@ Außerdem möchte ich eine Online-Terminreservierung umsetzen, bei der Kunden ve
 Im weiteren Verlauf des Projekts könnte die Website um zusätzliche Funktionen erweitert werden, zum Beispiel:
 
 - Kundenregistrierung
+- HU/AU-Erinnerung per Email oder Post
 - Verwaltung von Terminen
 - Online-Bewerbungen
 - Upload von Lebensläufen und Bewerbungsunterlagen für Bewerber
